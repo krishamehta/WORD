@@ -1,2 +1,2 @@
-# WORD-
+# WORD
 Working with Word2Vec
